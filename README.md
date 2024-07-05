@@ -13,4 +13,7 @@
     <div>
         <a href="https://www.cloudflare.com/learning/performance/what-is-http3/">CloudFlare: What is HTTP/3?</a>
     </div>
+    <div>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages">HTTP Messages</a>
+    </div>
 </div>
