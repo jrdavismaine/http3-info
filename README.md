@@ -6,7 +6,7 @@
         <a href="https://datatracker.ietf.org/doc/html/rfc9114">Internet Engineering Task Force (IETF) 9114</a>
     </div>
     <div>
-        <a href="https://en.wikipedia.org/wiki/HTTP/3">HTTP3 Wikipedia</a>
+        <a href="https://en.wikipedia.org/wiki/HTTP/3">HTTP/3 Wikipedia</a>
     </div>
         <a href="https://h2o.examp1e.net/configure/http3_directives.html">H2O: The optimized HTTP/1.x, HTTP/2, HTTP/3 server.</a>
     </div>
