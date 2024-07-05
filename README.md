@@ -1,9 +1,8 @@
 <div>
 <h1>
-HTTP 3 references
+Links to HTTP/3 topics
 </h1>
 </div>
-<div>
 <a href="https://datatracker.ietf.org/doc/html/rfc9114">Internet Engineering Task Force (IETF) 9114</a>
 </div>
 <div>
