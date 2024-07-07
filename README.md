@@ -34,12 +34,12 @@
             </div>       
             <div>
                 <li>
-                    <a href="https://www.chromium.org/quic/">QUIC, a multiplexed transport over UDP</a> - From https://www.chromium.org/quic/. QUIC is a new multiplexed transport built on top of UDP. HTTP/3 is designed to take advantage of QUIC's features, including lack of Head-Of-Line blocking between streams.
+                    <a href="https://www.chromium.org/quic/">QUIC, a multiplexed transport over UDP</a> - QUIC is a new multiplexed transport built on top of UDP. HTTP/3 is designed to take advantage of QUIC's features, including lack of Head-Of-Line blocking between streams.
                 </li>
             </div>        
             <div>
                 <li>
-                    <a href="https://en.wikipedia.org/wiki/QUIC">QUIC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google</a>
+                    <a href="https://en.wikipedia.org/wiki/QUIC">Wikipedia QUIC</a> -  QUOC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google
                 </li>
             </div>
         </ul>       
