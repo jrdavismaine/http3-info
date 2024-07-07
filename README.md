@@ -37,6 +37,11 @@
                     <a href="https://en.wikipedia.org/wiki/QUIC">QUIC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google</a>
                 </li>
             </div>
+            <div>
+                <li>
+                    <a href="https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed">How QUIC Is Displacing TCP for Speed and Security ?</a>
+                </li>
+            </div>
         </ul>       
     </div>
     <div>
