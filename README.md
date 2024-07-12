@@ -20,7 +20,12 @@
                     <li>
                         <a href="https://www.cloudflare.com/learning/performance/what-is-http3/">CloudFlare: What is HTTP/3?</a>
                     </li>
-                </div>            
+                </div>
+                <div>
+                    <li>
+                        <a href="https://www.akamai.com/blog/developers/a-quick-introduction-http3">Akamai: A QUICk Introduction to HTTP/3.</a>
+                    </li>
+                </div>                   
             </div>
         </ul>
     </div>
