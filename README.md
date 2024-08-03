@@ -25,7 +25,12 @@
                     <li>
                         <a href="https://www.akamai.com/blog/developers/a-quick-introduction-http3">Akamai: A QUICk Introduction to HTTP/3.</a>
                     </li>
-                </div>                   
+                </div>
+                <div>
+                    <li>
+                        <a href="https://http3-explained.haxx.se">HTTP/3 explained is a collaborative effort to document the HTTP/3 and the QUIC protocols.</a>
+                    </li>
+                </div>                                 
             </div>
         </ul>
     </div>
@@ -44,7 +49,7 @@
             </div>        
             <div>
                 <li>
-                    <a href="https://en.wikipedia.org/wiki/QUIC">Wikipedia QUIC</a> -  QUOC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google
+                    <a href="https://en.wikipedia.org/wiki/QUIC">Wikipedia QUIC</a> -  QUIC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google
                 </li>
             </div>
         </ul>       
