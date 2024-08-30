@@ -49,7 +49,7 @@
             </div>             
             <div>
                 <li>
-                    <a href="https://en.wikipedia.org/wiki/QUIC">Wikipedia QUIC</a> -  QUIC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google
+                    <a href="https://en.wikipedia.org/wiki/QUIC">Wikipedia QUIC</a>
                 </li>
             </div>
         </ul>       
