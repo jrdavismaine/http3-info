@@ -46,12 +46,7 @@
                 <li>
                     <a href="https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed">How QUIC Is Displacing TCP for Speed and Security ?</a>
                 </li>
-            </div>       
-            <div>
-                <li>
-                    <a href="https://www.chromium.org/quic/">QUIC, a multiplexed transport over UDP</a> - QUIC is a new multiplexed transport built on top of UDP. HTTP/3 is designed to take advantage of QUIC's features, including lack of Head-Of-Line blocking between streams.
-                </li>
-            </div>        
+            </div>             
             <div>
                 <li>
                     <a href="https://en.wikipedia.org/wiki/QUIC">Wikipedia QUIC</a> -  QUIC is a general-purpose transport layer network protocol initially designed by Jim Roskind at Google
