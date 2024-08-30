@@ -39,7 +39,7 @@
         <ul>
             <div>
                 <li>
-                    <a href=["https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed](https://www.chromium.org/quic/)">The Chromium Projects - QUIC, a multiplexed transport over UDP.</a>
+                    <a href="https://www.chromium.org/quic/">The Chromium Projects - QUIC, a multiplexed transport over UDP.</a>
                 </li>
             </div>
             <div>
