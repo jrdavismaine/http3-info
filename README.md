@@ -71,7 +71,7 @@
                 <li>
                     <a href="https://h2o.examp1e.net/configure/http3_directives.html">H2O: The optimized HTTP/1.x, HTTP/2, HTTP/3 server.</a>
                 </li>
-            </divP>
+            </div>
             <div>
                 <li>
                     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages">HTTP Messages</a>
